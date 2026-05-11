@@ -244,12 +244,6 @@ Password: password123
 
 ---
 
-## 📌 Resume Description
-
-Built a production-grade restaurant reservation and analytics platform using FastAPI, SQLAlchemy, SQLite, and Streamlit. Implemented JWT authentication, role-based access control, 2-hour conflict detection, rate limiting, soft deletion, and SQL-based analytics with filtering and pagination.
-
----
-
 ## 🎯 Skills Demonstrated
 
 * Python Backend Development

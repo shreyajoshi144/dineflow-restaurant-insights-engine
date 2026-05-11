@@ -1,6 +1,10 @@
-# Dineflow — Production-Grade Restaurant Reservation & Analytics Platform
+# Dineflow - Restaurant Insights Engine
 
-A production-grade full-stack reservation system built with FastAPI, SQLAlchemy, SQLite, and Streamlit. The project is designed to showcase backend engineering and data-focused skills, including secure authentication, role-based access control, booking conflict resolution, rate limiting, and SQL-powered analytics.
+Dineflow is a production-grade restaurant reservation and analytics platform that I built to strengthen my backend and data engineering skills. My goal was to create a project that goes beyond basic CRUD operations and demonstrates how real-world systems are designed, secured, and optimized.
+
+The application allows users to sign up, log in securely, check table availability, and make reservations while automatically handling booking conflicts and enforcing daily booking limits. Administrators can manage users and reservations, cancel bookings without deleting historical data, and explore interactive dashboards to analyze booking trends, peak hours, cancellation rates, and table utilization.
+
+The backend was developed with FastAPI, SQLAlchemy, and SQLite, while the admin analytics dashboard was built using Streamlit. Through this project, I gained practical experience in REST API development, relational database design, JWT authentication, role-based access control, business rule enforcement, and SQL-based analytics.
 
 ---
 
@@ -23,7 +27,8 @@ The system emphasizes production-level backend design and data modeling:
 ---
 
 ## 
-![img.png](img.png)
+<img width="1536" height="1024" alt="ChatGPT Image May 10, 2026, 11_45_25 PM" src="https://github.com/user-attachments/assets/78f78eb4-1723-4d7c-9b91-c00033db222b" />
+
 
 ---
 
@@ -173,6 +178,7 @@ dineflow/
 * `POST /seed-data`
 
 ---
+<img width="1600" height="792" alt="dineflow_architecture_pipeline" src="https://github.com/user-attachments/assets/51bc087d-7c20-4082-937a-e58295c6ef61" />
 
 ## ⚡ Setup Instructions
 

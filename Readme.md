@@ -275,4 +275,4 @@ Built a production-grade restaurant reservation and analytics platform using Fas
 * Background jobs with Celery
 * Cloud deployment (AWS/GCP)
 
----
+
